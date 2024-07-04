@@ -10,7 +10,7 @@
     <!-- Navigation -->
     <?php include('reusable/nav.php')?>
     <div style="position: relative; top: 0px; left: 0px;">
-        <img src="./images/gallery.jpg" class="img-fluid"/>
+        <img src="./images/gallery.jpg" class="img-fluid" alt="art gallery space"/>
     </div>
     <div style="position: absolute; top: 380px; left: 550px; max-width: 790px; text-align: center;">
         <h1 style="font-weight: 600;"  class="display-1 mt-5 mb-5"><mark>Welcome to ArtDeco!</mark></h1>

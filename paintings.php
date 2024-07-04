@@ -40,7 +40,7 @@
                         </div>
                         <div class="mx-auto p-2">
                           <h5 class="card-title">' . $painting['eng_title'] . '</h5>
-                          <i><h6>' . $painting['eng_author'] . '</h6></i>
+                          <p><i>' . $painting['eng_author'] . '</i></p>
                           <ul class="list-inline mb-0 mt-4">
                             <li class="list-inline-item">
                               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
